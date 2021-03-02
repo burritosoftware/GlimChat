@@ -1,3 +1,3 @@
 # GlimChat
 
-Simple CSS to put Glimesh Chat in OBS/XSplit.
+Simple CSS to overlay your Glimesh Chat in OBS/XSplit. No signups, no selfhosting.
